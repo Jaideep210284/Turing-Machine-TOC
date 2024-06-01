@@ -21,29 +21,6 @@ Automated Execution: Option to run the Turing Machine automatically with a delay
 Universal Turing Machine (UTM): Load and execute multiple Turing Machines dynamically.
 Technologies Used
 Python 3.x
-Installation
-Prerequisites
-Python 3.x installed on your system.
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/yourusername/turing-machine-simulator.git
-cd turing-machine-simulator
-Usage
-Prepare the Environment:
-Ensure you have Python 3.x installed and set up your environment correctly.
-
-Run the Turing Machine Simulator:
-Execute the main script to start the simulator.
-
-bash
-Copy code
-python turing_machine_simulator.py
-Input String:
-When prompted, enter a string of '0's and '1's to be processed by the Turing Machine.
-
-# View Output:
-The simulator will display each step of the Turing Machine's operation and finally indicate whether the input string is accepted as a palindrome or rejected.
 
 # Code Explanation
 Turing Machine Class
